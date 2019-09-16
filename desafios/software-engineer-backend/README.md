@@ -90,3 +90,4 @@ Você deve criar os seguintes serviços:
 1. Testes `(integração e unitário)`
 2. CI/CD
 3. Deploy da api em algum serviço de cloud (pode ser usado serviços gratuitos, como o `heroku`, `MLab`, etc)
+4. Qualquer outra feature que você achar que se encaixe no projeto!
