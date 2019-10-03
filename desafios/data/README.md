@@ -1,8 +1,8 @@
 # Data Challenge - Confere
 
-Here you'll build a integration service that pulls data from an file server, and writes this data to a REST API.
+Aqui você terá uma ideia do funcionamento do mercado de integrações com software houses e adquirentes, e poderá aplicar seu conhecimento de programação na prática :)
 
-## Context
+## Contexto
 
 Várias empresas de software, adquirentes e sistemas de gestão transitam grandes volumes de dados com arquivos padronizados chamados EDI. Esses arquivos são como CSV's, porém com cada linha possuindo definição própria das colunas. Por exemplo, considerando o layout:
 
