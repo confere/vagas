@@ -66,7 +66,7 @@ Referir-se ao arquivo de vendas para tradução.
 
 ## Funcionamento
 
-O programa deve receber um imput equivalente a:
+O programa deve receber um input equivalente a:
 
 ```
 python3 script.py --output arquivo_parseado.json
