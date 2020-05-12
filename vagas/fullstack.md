@@ -1,4 +1,4 @@
-# Desenvolvedor Fullstack
+# Pessoa desenvolvedora JavaScript Pleno/Sênior
 
 A Confere é um software de controle de vendas por maquininhas de cartão. Integramos os diferentes dados em um único app/plataforma para que os pequenos lojistas possam ter visibilidade financeira das vendas do seu negócio.
 
@@ -10,7 +10,7 @@ Nosso time está crescendo e estamos à procura de pessoas cheias de vontade, qu
 
 ## Sobre a vaga
 
-Desenvolvedor Full-Stack Javascript
+Full-Stack Javascript (Node + React)
 
 ### O que pedimos/precisamos:
 - Experiência em desenvolvimento de aplicações Node.JS;
