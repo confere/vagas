@@ -82,7 +82,7 @@ Na chamada acima, ele deve gerar um arquivo chamado `arquivo_parseado.json` com 
 3. Crie uma documentação! Um Readme.md com informações sobre o script
 
 ## Considerações finais
-1. Caso você tenha algum problema com o endpoint ou a documentação, não hestie em perguntar. Meu email é `brenno.flavio@conferecartoes.com.br`
+1. Caso você tenha algum problema com o endpoint ou a documentação, não hestie em perguntar. Meu email é `ricardo.cici@conferecartoes.com.br`
 
 2. O script será avaliado pela escolha de bibliotecas, qualidade do código, passar no linter e code formatter (usamos `flake8` e `black`) e simplicidade
 
