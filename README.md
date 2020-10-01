@@ -4,6 +4,7 @@
 # Venha para a Confere
 :handshake: Venha fazer parte do nosso time: [estamos contratando](https://conferecartoes-team.freshteam.com/jobs/)!
 
+<br>
   
 ## Sobre a Confere
 
