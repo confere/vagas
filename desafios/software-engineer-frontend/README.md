@@ -7,6 +7,8 @@ Nesse desafio você construirá uma versão super simplificada de um Marketplace
 1. A página não pode ser estatica. Ela precisa ter alguma logica para mostrar todos os produtos dinamicamente
 2. Todos os produtos do arquivo `db.json` devem ser mostrado.
 3. O projeto deve ter um README.md com todas as instruções sobre como executar e testar o projeto e os serviços disponibilizados.
+4. Usar o Framework React.JS
+5. Usar [Redux](https://redux.js.org)
 
 ## Requisitos
   
