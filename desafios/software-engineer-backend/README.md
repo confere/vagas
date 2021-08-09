@@ -74,8 +74,9 @@ Você deve criar os seguintes serviços:
 
 1.  O serviço deve ser escrito em Node.js
 2.  Sinta-se livre para usar qualquere framework.
-3.  O serviço deve armazenar informações em um banco de dados. Você pode escolher o banco que achar melhor.
-4.  O projeto deve ter um README.md com todas as instruções sobre como executar e testar o projeto e os serviços disponibilizados.
+3.  Usar autenticação JWT
+4.  O serviço deve armazenar informações em um banco de dados. Você pode escolher o banco que achar melhor.
+5.  O projeto deve ter um README.md com todas as instruções sobre como executar e testar o projeto e os serviços disponibilizados.
 
 ## Avaliação
 
