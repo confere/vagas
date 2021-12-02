@@ -28,10 +28,11 @@ Constura um Bot usando [Selenium](https://selenium-python.readthedocs.io/) e [Py
 6. Construa o seguinte dicionário:
 ```json
 {
+    "data": "2021-09-30",
     "ativo_imobilizado": 702228000,
     "ativo_total": 924465000,
     "patrimonio_liquido": 309753000,
-    "patrimonio_liquido_atribuido_a_corretora": 306252
+    "patrimonio_liquido_atribuido_a_controladora": 306252
 }
 ```
 
