@@ -12,17 +12,16 @@ Assim sendo, nessa vaga, o grande desafio é conseguir extrair informações de 
 Constura um Bot usando [Selenium](https://selenium-python.readthedocs.io/) e [Python](https://www.python.org/). Esse bot deverá acessar o site da Bovespa, e consultar algumas informações da Petrobrás. Abaixo está o passo a passo na perspectiva de um usuário, mas você pode pular passos no código se conseguir!
 
 ### Passo a passo
-1. Abra a url http://www.bmfbovespa.com.br/pt_br/produtos/listados-a-vista-e-derivativos/renda-variavel/empresas-listadas.htm
+1. Abra a url https://www.b3.com.br/pt_br/produtos-e-servicos/negociacao/renda-variavel/empresas-listadas.htm
 
 2. Procure por "Petrobrás"
-![Image1](https://i.imgur.com/yJ3f7Lu.png)
-![Image2](https://i.imgur.com/tVkPnzr.png)
+![Image1](https://imgur.com/TKZYLvg.jpg)
 
 3. Clique em "PETROLEO BRASILEIRO S.A. PETROBRAS"
-![Image3](https://i.imgur.com/OmE2zJA.png)
+![Image2](https://i.imgur.com/6Wq7xal.jpg)
 
 4. Procure por "Balanço Patrimonial - Consolidado"
-![Image4](https://i.imgur.com/mCEEmFa.png)
+![Image3](https://imgur.com/hJxFnH1.jpg)
 
 5. Pegue os campos da tabela
 
