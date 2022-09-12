@@ -4,7 +4,7 @@ A Confere é um software de controle de vendas por maquininhas de cartão. Integ
 
 ![](https://cdn2.hubspot.net/hub/3222583/hubfs/confere-home(1).gif?width=1100&name=confere-home(1).gif)
 
-Atualmente, mais de 600 empresas de 40 segmentos diferentes já utilizam a nossa plataforma em todo o Brasil!
+Atualmente, mais de 8000 empresas de 40 segmentos diferentes já utilizam a nossa plataforma em todo o Brasil!
 
 Nosso time está crescendo e estamos à procura de pessoas cheias de vontade, que amem tecnologia e queiram fazer parte da transformação da realidade de pequenas empresas no Brasil!
 
